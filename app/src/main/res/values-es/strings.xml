@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">Paises del mundo</string>
+    <string name="favorite_button">Favoritos</string>
+    <string name="capital">Capital</string>
+    <string name="population">Población</string>
+    <string name="area">Área</string>
+    <string name="continent">Continente</string>
+
+    <string name="allContinents">Todos los continentes</string>
+    <string name="europe">Europa</string>
+    <string name="africa">África</string>
+    <string name="oceania">Oceanía</string>
+    <string name="north_america">América del Norte</string>
+    <string name="south_america">América del Sur</string>
+    <string name="asia">Asia</string>
+    <string name="antartica">Antártida</string>
+
+
+    <string-array name="continents_array">
+        <item>Todos los continentes</item>
+        <item>Europa</item>
+        <item>África</item>
+        <item>Oceanía</item>
+        <item>América del Norte</item>
+        <item>América del Sur</item>
+        <item>Asia</item>
+        <item>Antártida</item>
+    </string-array>
+
+
+    <string-array name="sort_options">
+        <item>Ordena por país (Asc)</item>
+        <item>Ordena por país (Desc)</item>
+        <item>Ordena por capital (Asc)</item>
+        <item>Ordena por capital (Desc)</item>
+    </string-array>
+
+    <string name="gameStart">Iniciar Juego</string>
+    <string name="back">Volver</string>
+
+    <string name="num_code">Código numérico: %1$s</string>
+    <string name="code_2">Código 2: %1$s</string>
+    <string name="code_3">Código 3: %1$s</string>
+    <string name="tld">Dominio de nivel superior: %1$s</string>
+    <string name="country_name">Nombre del país: %1$s</string>
+
+
+
+
+</resources>

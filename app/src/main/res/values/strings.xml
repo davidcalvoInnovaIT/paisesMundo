@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name" translatable="false">World Countries</string>
+    <string name="favorite_button">Favorites</string>
+    <string name="capital">Capital</string>
+    <string name="population">Population</string>
+    <string name="area">Area</string>
+    <string name="continent">Continent</string>
+
+    <string name="allContinents">All continents</string>
+    <string name="europe">Europe</string>
+    <string name="africa">Africa</string>
+    <string name="oceania">Oceania</string>
+    <string name="north_america">North America</string>
+    <string name="south_america">South America</string>
+    <string name="asia">Asia</string>
+    <string name="antartica">Antartica</string>
+
+
+
+
+
+    <string-array name="continents_array">
+        <item>All continents</item>
+        <item>Europe</item>
+        <item>Africa</item>
+        <item>Oceania</item>
+        <item>North America</item>
+        <item>South America</item>
+        <item>Asia</item>
+        <item>Antarctica</item>
+    </string-array>
+
+
+    <string-array name="sort_options">
+        <item>Sort by Country (Asc)</item>
+        <item>Sort by Country (Desc)</item>
+        <item>Sort by Capital (Asc)</item>
+        <item>Sort by Capital (Desc)</item>
+    </string-array>
+
+    <string name="gameStart">Start Game</string>
+
+    <string name="back">Back</string>
+    <string name="num_code">Numeric code: %1$s</string>
+    <string name="code_2">Code 2: %1$s</string>
+    <string name="code_3">Code 3: %1$s</string>
+    <string name="tld">Top Level Domain: %1$s</string>
+    <string name="country_name">Country Name: %1$s</string>
+
+
+
+
+
+
+</resources>
