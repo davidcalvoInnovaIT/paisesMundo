@@ -3,7 +3,9 @@ import android.os.Bundle
 
 class pruebaEnvio {
 
-    var numero : Int = 10;
+    var numero = 15
+
+
 
 
 }
